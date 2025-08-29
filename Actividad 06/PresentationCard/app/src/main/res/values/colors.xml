@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gradient_start">#0F2027</color>
+    <color name="gradient_end">#203A43</color>
+
+    <color name="card_bg">#101317</color>
+    <color name="avatar_bg">#1A1F26</color>
+
+    <color name="text_primary">#EAECEF</color>
+    <color name="text_secondary">#9AA4B2</color>
+
+    <color name="icon_tint">#9CC9FF</color>
+    <color name="divider">#26313A</color>
+
+    <color name="tonal_btn_bg">#1F2A36</color>
+    <color name="tonal_btn_icon">#C7E0FF</color>
+    <color name="tonal_btn_text">#E6F2FF</color>
+
+    <color name="outlined_btn_text">#C7E0FF</color>
+    <color name="outlined_btn_icon">#C7E0FF</color>
+    <color name="outlined_btn_border_start">#5DB8FF</color>
+    <color name="outlined_btn_border_end">#7AE0FF</color>
+</resources>

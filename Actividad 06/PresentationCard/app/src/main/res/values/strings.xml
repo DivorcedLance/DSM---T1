@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PresentationCard</string>
+    <string name="full_name">Jose Luis Vergara</string>
+    <string name="job_title">Fullstack Developer</string>
+    <string name="phone">+51 967738908</string>
+    <string name="github">\@DIvorcedLance</string>
+    <string name="email">divorcedlance@gmail.com</string>
+
+    <string name="url_github">https://github.com/DivorcedLance</string>
+    <string name="url_linkedin">www.linkedin.com/in/jose-luis-vergara-pachas-194914259</string>
+
+</resources>
